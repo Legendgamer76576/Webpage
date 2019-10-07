@@ -1,0 +1,226 @@
+<!DOCTYPE html> 
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    
+        <title>Russia is Best</title>
+        <style>
+            .r{
+                color:rgb(115, 10, 2);
+            }
+            body{
+            background-color:rgb(19, 29, 138);
+            }
+            p.{
+            }
+            p{
+                font-family:sans;
+                
+            }
+            .list1{
+            font-size:18px;
+            background: rgb(255, 255, 255);
+            border:3px ridge black;
+            overflow:auto;
+            padding-top:4px;
+            padding-bottom:4px;
+            }
+            .s{
+                color:rgb(216, 235, 47);
+            }
+            .joseph{
+                border:5px ridge black;
+                
+            }
+            .putin{
+                border:5px ridge black;
+            }
+            .putin-name{
+                color:rgb(255, 255, 255);
+            }
+            .putin-info{
+                border:5px ridge black;
+                padding:4px;
+                margin-right:30px;
+            }
+              .js{
+                background: rgb();
+                border:4px ridge black;
+                padding:4px;
+                margin-right:30px;
+            }
+            .anthem{
+                background:rgb(16, 24, 71);
+                color:rgb(255, 221, 0);
+                font-size:18px;
+                font-family:cursive;
+                border:5px ridge rgb(15, 10, 15);
+                padding:5px;
+                left:8px;
+                margin-right:50px;
+            }
+            .drink{
+                color:rgb(204, 198, 204);
+ 
+            }
+            .vodka{
+                
+            }
+            .paragraph{
+                font-family:sans;
+                font-size:16px;
+            }
+            .link-1{
+                color:rgb(255, 0, 0);
+                font-size:19px;
+                font-family:arial;
+            }
+            
+                
+            
+            .leader-title{
+                font-size:26px;
+                
+            }
+            .leader{
+                font-size:19px;
+                background:white;
+                border:5px ridge black;
+                padding-top:4px;
+                padding-bottom:4px;
+                width:370px;
+            }
+            .head1{
+                font-size:40px;
+            }
+           
+            .flag{
+            
+                border:4px ridge black;
+            }
+            .picture{
+                border:4px ridge black;
+            }
+     
+            .sflag{
+                border:5px ridge black;
+                
+            }
+            .meme{
+                border:5px ridge black;
+                padding:10px;
+            }
+            .meme1{
+                
+            }
+            .end-credit{
+                border:5px ridge black;
+            }
+        </style>
+        
+    </head>
+    <body>
+    
+        <div><h1 class="head1"><em class="r">Russia</em> is the best </h1>
+        
+        <h2>Reasons to go to Glorious <em class="r"><strong>Russia</strong></em>:</h2></div>
+        
+       <ul class="list1"> <li>
+        It is very <strong>very</strong> cold, so if you like  cold <em class="r"><strong>Russia</strong></em> is good to travel<br></li>
+       <li> There are bears which is <em class="r"><strong>Russia</strong></em> national animal<br></li>
+       <li>Borcht is found in <em class="r"><strong>Russia</strong></em></li>
+       <li>Glorious <strong><em>Vodka</em></strong> is also found in <em class="r"><strong>Russia</strong></em></li>
+       <li><em class="r"><strong>Russia</strong></em> <em>had</em> communism</li>
+       <li><em class="r"><strong>Russia</strong></em> has nuclear weponary</li>
+       <li><em class="r"><strong>Russia</strong></em> is very strange</li>
+       <li><em class="r"><strong>Russia</strong></em> is biggest country</li>
+       <li><em class="r"><strong>Russia</strong></em> has six letters</li>
+
+       
+       
+       
+       
+       
+       <li><em class="r"><strong>Russia</strong></em> has big scary leaders like:</li></ul><br><br>
+       
+       
+       
+       
+       
+       
+           
+       <img class="joseph" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Stalin_the_communist.jpg" alt="joseph stalin" width="200">
+       <h1>The Legendary <em class="r"><strong>Joseph Stalin</strong></em><br></h1>
+   <div class="js"> <p class="paragraph">  Who was idely considered one of the 20th century's most significant figures, Stalin was the subject of a pervasive personality cult within the international Marxist–Leninist movement which revered him as a champion of the working class and socialism. Since the dissolution of the Soviet Union in 1991, Stalin has retained popularity in Russia and Georgia as a victorious wartime leader who established the <strong class="r">Soviet Union</strong> as a major world power. Conversely, his totalitarian government has been widely condemned for overseeing mass repressions, ethnic cleansing, deportations, hundreds of thousands of executions, and famines which killed <strong>millions</strong>.
+        </p></div>
+        
+        
+        <h1>Another powerful leader was... </h1><br>
+        <img class="putin" src="" alt="vladmir putin">
+        <h2>The Allmighty 
+        <em class="putin-name">Vladmir Putin</em></h2> 
+        <div class="putin-info"><p>o</p></div>
+        
+        
+        <br><br><br><br><br>
+        <h2>National Anthem of <em class="r"><strong>Russia</strong></em></h2>
+       <p class="anthem">
+       Rossiya – svyashchennaya nasha derzhava,<br>
+       Rossiya – lyubimaya nasha strana<br>
+       Moguchaya volya, velikaya slava – <br>
+        Tvoio dostoyanye na vse vremena<br>
+       Slav'sya, Otechestvo nashe svobodnoye,<br>
+       Bratskih narodov soyuz vekovoi, <br>
+        Predkami dannaya mudrost' narodnaya<br>
+        Slav'sya, strana! My gordimsya toboi<br>
+       Ot yuzhnyh morei do polyarnogo kraya <br>
+        Raskinulis' nashi lesa i polya<br>
+        Odna ty na svete! Odna ty takaya –<br>
+        Khranimaya Bogom rodnaya zemlya!<br>
+     Shirokii prostor dlya mechty i dlya zhizni.<br>
+     Gryadushchiye nam otkryvayut goda.<br>
+     Nam silu daiot nasha vernost' Otchizne.<br>
+     Tak bylo, tak yest' i tak budet vsegda!<br>
+          </p>
+          <a href="https://www.youtube.com/watch?v=ZSL8mSraiZ4"                   ><strong class="link-1">Russian National Anthem</strong>`              </a><br><br><br>
+         <h2>Flag of <em class="r"><strong>Russia</strong></em></h2>
+        <img style="border:4px ridge black;" src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" alt="russian flag" width="300"><br><br>
+        
+       
+        <h2 class="country">Picture of <em class="r"><strong>Russia</strong></em></h2>
+        
+        <img class="picture" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Russia_edcp_location_map.svg" alt="russia- country" width="400"><br><br><br>
+        
+       <h1 class="drink">National drink of <em class="r"><strong>Russia</strong></em> is...</h1>
+       
+        <img class="picture" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Vodka_Sobieski.jpg/220px-Vodka_Sobieski.jpg" alt="quality russian vodka">
+        <h1>The Glorious <em style="color:rgb(255, 255, 255);">Vodka</em></h1><br><br><br>
+       <h1 class="leader-title">Leaders of the <strong class="s">Soviet Union</strong></h1>
+    <ul class="leader"> 
+       <li>Vladimir Lenin (1870–1924)
+        <li><em class="r"><strong>Joseph Stalin</strong></em> (1878–1953)
+        <li>Georgy Malenkov (1902–1988)
+        <li>Nikita Khrushchev (1894–1971)
+        <li>Leonid Brezhnev (1906–1982)
+        <li>Yuri Andropov (1914–1984)
+        <li>Konstantin Chernenko (1911–1985)
+        <li>Mikhail Gorbachev (1931–1989)</li>
+        </ul>
+        <br><br>
+        <h2><strong class="s">Soviet Union Flag</strong></h2>
+        <img class="sflag" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_the_Soviet_Union.svg" alt="Soviet Flag" width="400">
+        <br><br><br>
+        <div class="meme"> <h2><em class="r"><strong>Russia</strong></em> Memes</h2>
+        <p><strong style="font-family:helvetica;">Coming Soon!!!</strong>
+        <img src="" alt="">
+        <a href=""></a>    
+        </p>
+        <br><br><br><br><br><br></div><br>
+        <div class="end-credit"><p>Copyright Wikapedia for images and info</p><br></div>
+        <h4>Praise <em class="r"><strong>Russia </strong></em> - <em class="r"><strong>The One And True Motherland</strong></em></h4>
+    </body>
+    
+    
+    
+    
+</html>
